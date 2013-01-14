@@ -20,7 +20,7 @@ Here is the group header bg (tinyurl.com/cvblgvp). This image needs to have the 
     .Groups .header_page .identity {
         background: url("http://img32.imageshack.us/img32/7135/defaultbg.png") no-repeat scroll right center #000000 !important;
         border-bottom: 1px solid #000000;
-        box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.1) inset;
+        box-shadow: 0 0 0 1px rgba(255, 255, 255, 1.0) inset;
         float: none;
         height: 165px;
         padding-left: 168px;
