@@ -1,7 +1,7 @@
 Bnext Forumulation Beta
 ===========
 
-Changing group title background and avatars is fun!
+Changing group title backgrounds and avatars is fun!
 
 ## Installation
 0. You need that "Stylish" thing installed in your browser. [Firefox](https://addons.mozilla.org/en-US/firefox/addon/stylish/) | [Chrome](https://chrome.google.com/webstore/detail/stylish/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en)
