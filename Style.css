@@ -1,0 +1,50 @@
+/*
+Title: BNext Forumulation Beta (Chrome)
+Author: Bradllez
+Copyright: Bradllez 2013
+License: Creative Commons Attribution 3.0 Unported License; See: http://creativecommons.org/licenses/by/3.0/
+*/
+
+/*
+Welcome, kind stylist! This is the first attempt of changing around some forum images on the new layout in Bungie's new layout. This is a commentary to help you edit your experience to your liking. A tutorial, if you will. So lets get started.
+*/
+
+
+/*
+Here is the group header bg (tinyurl.com/cvblgvp). This image needs to have the dimensions of 960w by 164h for best results. After doing so, you will need to upload your new image to a image holder site. I use imageshack.com since it does not limit how much the image can be accessed. After uploading, right click and "Copy Image Url". You will replace the first link below with the new link (defaultbg.png gets replaced with yours).
+*/
+
+}
+.Groups .header_page .identity {
+}
+    .Groups .header_page .identity {
+        background: url("http://img32.imageshack.us/img32/7135/defaultbg.png") no-repeat scroll right center #000000 !important;
+        border-bottom: 1px solid #000000;
+        box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.1) inset;
+        float: none;
+        height: 165px;
+        padding-left: 168px;
+        position: relative;
+        background-size:cover;
+    }
+
+/*
+Now it is time to edit the group avatar (tinyurl.com/bkxy23e). This image needs to have the dimensions of 150w by 150h for best results. Afterwards, follow the same directions as previous and edit the link below to your new avatar link (defaultavatarm.png gets replaced with yours).
+*/
+
+.Groups .header_page .avatar {
+width: 126px;
+position: absolute;
+background-image: url(http://img842.imageshack.us/img842/407/defaultavatarm.png) !important;
+background-size: auto 100%;
+background-repeat: no-repeat;
+background-position: center center;
+display: block;
+height: 126px;
+top: 20px;
+left: 16px;
+}
+
+/*
+And you're done! Wasn't so hard, right? Be sure to go ahead and tell your BNet friends and groups about this. This was designed for Google Chrome (not my problem if it doesn't work in firefox.) Thank you, this is Bradllez's pre-recorded message signing off.
+*/
